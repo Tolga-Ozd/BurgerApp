@@ -8,8 +8,8 @@ const Home = () => {
   return (
     <div className='mainPage' style={{backgroundImage: `url(${FastFood})`}}>
         <div className='order'>
-            <Link to="/">
-            <button>Sipariş Ver</button>
+            <Link to="/menü">
+              <button>Sipariş Ver</button>
             </Link>
         </div>
 
