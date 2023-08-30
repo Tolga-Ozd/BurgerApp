@@ -1,10 +1,11 @@
-import { Route, Router, Routes } from "react-router-dom"
+import { Route, Routes } from "react-router-dom"
 import Footer from "./components/Footer"
 import Navbar from "./components/Navbar"
 import Home from "./components/Home"
 import Menu from "./components/Menu"
 import About from "./components/About"
 import Contact from "./components/Contact"
+import "./App.css"
 
 
 function App() {
