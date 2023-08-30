@@ -1,6 +1,6 @@
 import React from 'react'
 import BurgerLogo from "../assets/burgerlogo.png"
-import { Link, NavLink } from 'react-router-dom'
+import {  NavLink } from 'react-router-dom'
 import "../styles/Navbar.css"
 
 const Navbar = () => {
